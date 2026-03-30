@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Võ Đức Huy
+# Hi there 👋, I'm Vo Duc Huy
 
 🎓 **Student at FPT University**
 💻 **Focus:** Primarily focused on **Frontend Development** utilizing **ReactJS + VITE**.
