@@ -18,7 +18,7 @@
 💻 Primarily focused on **Frontend Development**, building smooth, highly optimized, and clean web experiences.
 
 - 🌱 Currently exploring & aiming for **Fullstack Developer** & **Senior Developer** paths.
-- 💬 Ask me about **ReactJS, Next.js, Tailwind CSS, Zustand & Shadcn/UI, RHF, React Query**
+- 💬 Ask me about **Frontend Developer, React.js**
 - 📫 Reach me at: **[voh405033@gmail.com](mailto:voh405033@gmail.com)** or Discord: `duchuy2448#voduchuy_`
 
 > “An ADHD Dev, absolutely dislike noisy workspaces.”
