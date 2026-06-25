@@ -1,7 +1,7 @@
 # Hi, I'm Vo Duc Huy 👋
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Frontend+Developer;ReactJS+%2B+Vite;ADHD Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Frontend+Developer;ReactJS+%2B+Vite;ADHD+Developer" alt="Typing Animation" />
 </div>
 
 <p align="left">
@@ -21,7 +21,7 @@
 - 💬 Ask me about **ReactJS, Next.js, Tailwind CSS, Zustand & Shadcn/UI, RHF, React Query**
 - 📫 Reach me at: **[voh405033@gmail.com](mailto:voh405033@gmail.com)** or Discord: `duchuy2448#voduchuy_`
 
-> “A ADHD Dev, absolutely dislike noisy workspaces.”
+> “An ADHD Dev, absolutely dislike noisy workspaces.”
 
 ---
 
@@ -34,7 +34,6 @@
 
 ### - Libraries & State Management
 <img src="https://skillicons.dev/icons?i=react,nodejs&perline=10" alt="Note: standard skillicons for zustand/shadcn/react-query can be represented via main ecosystems, or customized" style="display:none;"/>
-<!-- Vì skillicons.dev gom chung một số icon, dưới đây là bộ công cụ frontend mở rộng của bạn hiển thị cực gọn -->
 <code>React Router</code> • <code>React Query</code> • <code>Zustand</code> • <code>Axios</code> • <code>shadcn/ui</code> • <code>React Hook Form</code> • <code>Zod</code>
 
 ### - Backend & Databases
