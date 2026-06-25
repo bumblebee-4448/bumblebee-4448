@@ -1,28 +1,67 @@
-# Hi there 👋, I'm Vo Duc Huy
+# Hi, I'm Vo Duc Huy 👋
 
-🎓 **Student at FPT University**
-💻 **Focus:** Primarily focused on **Frontend Development** utilizing **ReactJS + VITE**.
-🚀 Always eager to learn and build smooth, highly optimized web experiences.
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Frontend+Developer;ReactJS+%2B+Vite;Let+me+cookkk+!!" alt="Typing Animation" />
+</div>
 
-## 🌐 Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/duchuy2448#voduchuy_) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/duchuyzz4824/?locale=vi_VN) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:voh405033@gmail.com)
+<p align="left">
+  <a target="_blank" href="https://www.facebook.com/duchuyzz4824/?locale=vi_VN">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+🎓 **Student at FPT University** (Class of 2022–2027)  
+💻 Primarily focused on **Frontend Development**, building smooth, highly optimized, and clean web experiences.
+
+- 🌱 Currently exploring & aiming for **Fullstack Developer** & **Senior Developer** paths.
+- 💬 Ask me about **ReactJS, Next.js, Tailwind CSS, Zustand & Shadcn/UI**
+- 📫 Reach me at: **[voh405033@gmail.com](mailto:voh405033@gmail.com)** or Discord: `duchuy2448#voduchuy_`
+
+> “Code is like humor — when you have to explain it, it’s bad.” 😎
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack
 
-### 🔹 Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+<div align="start">
 
-### 🔹 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-%23443E38.svg?style=for-the-badge&logo=react&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-%233E67B1.svg?style=for-the-badge&logo=zod&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### - Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,tailwind&theme=dark" />
 
-### 🔹 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### - Libraries & State Management
+<img src="https://skillicons.dev/icons?i=react,nodejs&perline=10" alt="Note: standard skillicons for zustand/shadcn/react-query can be represented via main ecosystems, or customized" style="display:none;"/>
+<!-- Vì skillicons.dev gom chung một số icon, dưới đây là bộ công cụ frontend mở rộng của bạn hiển thị cực gọn -->
+<code>React Router</code> • <code>React Query</code> • <code>Zustand</code> • <code>Axios</code> • <code>shadcn/ui</code> • <code>React Hook Form</code> • <code>Zod</code>
 
-### 🔹 Tools & Platforms
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### - Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" />
+
+### - Languages & Others
+<img src="https://skillicons.dev/icons?i=c,java&theme=dark" />
+
+### - Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vercel,githubactions,postman,vscode,figma,discord&theme=dark" />
+
+</div>
 
 ---
+
+## GitHub Contribution
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## ✨ Fun Facts
+- 🚫 A bit ADHD, which is why I highly value deep-work environments and absolutely dislike noisy workspaces.
+- 🚀 Always open to learning, coding hard, and collaboration.
