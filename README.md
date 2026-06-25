@@ -1,7 +1,7 @@
 # Hi, I'm Vo Duc Huy 👋
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Frontend+Developer;ReactJS+%2B+Vite;Let+me+cookkk+!!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Frontend+Developer;ReactJS+%2B+Vite;ADHD Developer" alt="Typing Animation" />
 </div>
 
 <p align="left">
@@ -18,10 +18,10 @@
 💻 Primarily focused on **Frontend Development**, building smooth, highly optimized, and clean web experiences.
 
 - 🌱 Currently exploring & aiming for **Fullstack Developer** & **Senior Developer** paths.
-- 💬 Ask me about **ReactJS, Next.js, Tailwind CSS, Zustand & Shadcn/UI**
+- 💬 Ask me about **ReactJS, Next.js, Tailwind CSS, Zustand & Shadcn/UI, RHF, React Query**
 - 📫 Reach me at: **[voh405033@gmail.com](mailto:voh405033@gmail.com)** or Discord: `duchuy2448#voduchuy_`
 
-> “Code is like humor — when you have to explain it, it’s bad.” 😎
+> “A ADHD Dev, absolutely dislike noisy workspaces.”
 
 ---
 
