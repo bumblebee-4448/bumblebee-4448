@@ -33,18 +33,13 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,tailwind&theme=dark" />
 
 ### - Libraries & State Management
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-</p>
+<a href="https://reactrouter.com/"><img src="https://img.shields.io/badge/-React_Router-1d2026?style=flat-square&logo=react-router&logoColor=CA4245&height=48" style="height: 40px; border-radius: 10px; margin-right: 4px;" /></a><a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/-React_Query-1d2026?style=flat-square&logo=react-query&logoColor=FF4154&height=48" style="height: 40px; border-radius: 10px; margin-right: 4px;" /></a><a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/badge/-Zustand-1d2026?style=flat-square&logo=react&logoColor=61DAFB&height=48" style="height: 40px; border-radius: 10px; margin-right: 4px;" /></a><a href="https://axios-http.com/"><img src="https://img.shields.io/badge/-Axios-1d2026?style=flat-square&logo=axios&logoColor=5A29E4&height=48" style="height: 40px; border-radius: 10px; margin-right: 4px;" /></a><a href="https://ui.shadcn.com/"><img src="https://img.shields.io/badge/-shadcn/ui-1d2026?style=flat-square&logo=shadcnui&logoColor=FFFFFF&height=48" style="height: 40px; border-radius: 10px; margin-right: 4px;" /></a><a href="https://react-hook-form.com/"><img src="https://img.shields.io/badge/-Hook_Form-1d2026?style=flat-square&logo=react-hook-form&logoColor=EC5990&height=48" style="height: 40px; border-radius: 10px; margin-right: 4px;" /></a><a href="https://zod.dev/"><img src="https://img.shields.io/badge/-Zod-1d2026?style=flat-square&logo=zod&logoColor=3E67B1&height=48" style="height: 40px; border-radius: 10px;" /></a>
+
+### - Mobile Development
+<img src="https://skillicons.dev/icons?i=react,expo&theme=dark" />
 
 ### - Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
 ### - Languages & Others
 <img src="https://skillicons.dev/icons?i=c,java&theme=dark" />
