@@ -33,8 +33,15 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,tailwind&theme=dark" />
 
 ### - Libraries & State Management
-<img src="https://skillicons.dev/icons?i=react,nodejs&perline=10" alt="Note: standard skillicons for zustand/shadcn/react-query can be represented via main ecosystems, or customized" style="display:none;"/>
-<code>React Router</code> • <code>React Query</code> • <code>Zustand</code> • <code>Axios</code> • <code>shadcn/ui</code> • <code>React Hook Form</code> • <code>Zod</code>
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+</p>
 
 ### - Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" />
