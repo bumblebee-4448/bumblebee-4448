@@ -14,7 +14,7 @@
 
 ## About Me
 
-🎓 **Student at FPT University** (Class of 2022–2027)  
+🎓 **Student at FPT University** (Class of 2022–2026)  
 💻 Primarily focused on **Frontend Development**, building smooth, highly optimized, and clean web experiences.
 
 - 🌱 Currently exploring & aiming for **Fullstack Developer** & **Senior Developer** paths.
