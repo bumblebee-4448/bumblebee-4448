@@ -19,7 +19,7 @@
 
 - 🌱 Currently exploring & aiming for **Fullstack Developer** & **Senior Developer** paths.
 - 💬 Ask me about **Frontend Developer, React.js**
-- 📫 Reach me at: **[voh405033@gmail.com](mailto:voh405033@gmail.com)** or Discord: `duchuy2448#voduchuy_`
+- 📫 Reach me at: **[voh405033@gmail.com](mailto:voh405033@gmail.com)**
 
 > “An ADHD Dev, absolutely dislike noisy workspaces.”
 
